@@ -1132,3 +1132,24 @@ body {
 #play-music:hover {
     background-color: #52aeeb91;
 }
+
+
+@media (max-width: 480px) {
+    #play-music {
+        width: 45px;
+        height: 45px;
+        font-size: 18px;
+        bottom: 15px;
+        right: 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    #play-music {
+        width: 55px;
+        height: 55px;
+        font-size: 22px;
+        bottom: 25px;
+        right: 25px;
+    }
+}
