@@ -1139,7 +1139,7 @@ body {
         width: 45px;
         height: 45px;
         font-size: 18px;
-        bottom: 15px;
+        bottom: 50px;
         right: 15px;
     }
 }
@@ -1149,7 +1149,7 @@ body {
         width: 55px;
         height: 55px;
         font-size: 22px;
-        bottom: 25px;
+        bottom: 40px; 
         right: 25px;
     }
 }
